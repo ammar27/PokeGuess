@@ -1,0 +1,46 @@
+
+body {
+    background-color: #353942;
+}
+
+#welcome-msg {
+    display: block;
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+    padding-top: 20px;
+    padding-right: 150px;
+    padding-left: 150px;
+    color: white;
+    text-align: center;
+}
+
+#welcome-header {
+    font-size: 50px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.description {
+    font-size: 20px;
+}
+
+footer {
+    padding-top: 200px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    font-size: 15px;
+    color: black;
+}
+
+#start-button {
+    font-size: 25px;
+    margin-top: 20px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+#game-screen {
+    display: none;
+    
+}
